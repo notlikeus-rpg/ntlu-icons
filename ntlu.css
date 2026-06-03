@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'ntlu';
-  src:  url('https://dl.dropbox.com/scl/fi/frzvqemwj2771447zznu0/ntlu.eot?rlkey=94ozd0uqq6r395g8zuevgw0w2&st=pmlplskp&dl=0');
-  src:  url('https://dl.dropbox.com/scl/fi/frzvqemwj2771447zznu0/ntlu.eot?rlkey=94ozd0uqq6r395g8zuevgw0w2&st=pmlplskp&dl=0#iefix') format('embedded-opentype'),
+  src:  url('https://github.com/notlikeus-rpg/ntlu-icons/blob/695c384528b1e36ca7591a1edd4c788a09f9a026/ntlu.eot');
+  src:  url('https://github.com/notlikeus-rpg/ntlu-icons/blob/695c384528b1e36ca7591a1edd4c788a09f9a026/ntlu.eot#iefix') format('embedded-opentype'),
     url('https://dl.dropbox.com/scl/fi/6n81cj8yrxlhgt0l7zttj/ntlu.ttf?rlkey=cbld2x54fc3nslr70wwkq414x&st=04soxncr&dl=0') format('truetype'),
     url('https://dl.dropbox.com/scl/fi/64lcrvtyahpcsf8wheedg/ntlu.woff?rlkey=26v8x43nh6fyobxwyc23fanrm&st=epzxtxxx&dl=0') format('woff'),
     url('https://dl.dropbox.com/scl/fi/31pm634mnwgu02082gxq3/ntlu.svg?rlkey=ysc6jwmhmiukr2oz6wk75cjzd&st=z6gemxoj&dl=0') format('svg');
