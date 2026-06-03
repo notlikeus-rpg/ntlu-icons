@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'ntlu';
-  src:url("./icofont.woff2") format("eot"),url("./icofont.woff") format("woff")
+  src:url("./ntlu.eot") format("eot"),url("./icofont.woff") format("woff")
   font-weight: normal;
   font-style: normal;
   font-display: block;
