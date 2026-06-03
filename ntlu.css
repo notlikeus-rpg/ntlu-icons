@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'ntlu';
-  src: url('https://raw.githubusercontent.com/notlikeus-rpg/ntlu-icons/main/ntlu.eot');
-  src: url('https://raw.githubusercontent.com/notlikeus-rpg/ntlu-icons/main/ntlu.eot?#iefix') format('embedded-opentype'),
-       url('https://raw.githubusercontent.com/notlikeus-rpg/ntlu-icons/main/ntlu.ttf') format('truetype'),
-       url('https://raw.githubusercontent.com/notlikeus-rpg/ntlu-icons/main/ntlu.woff') format('woff'),
-       url('https://raw.githubusercontent.com/notlikeus-rpg/ntlu-icons/main/ntlu.svg#ntlu') format('svg');
+  src: url('https://notlikeus-rpg.github.io/ntlu-icons/ntlu.eot');
+  src: url('https://notlikeus-rpg.github.io/ntlu-icons/ntlu.eot?#iefix') format('embedded-opentype'),
+       url('https://notlikeus-rpg.github.io/ntlu-icons/ntlu.woff') format('woff'),
+       url('https://notlikeus-rpg.github.io/ntlu-icons/ntlu.ttf') format('truetype'),
+       url('https://notlikeus-rpg.github.io/ntlu-icons/ntlu.svg#ntlu') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
