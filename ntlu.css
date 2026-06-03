@@ -1,10 +1,6 @@
 @font-face {
   font-family: 'ntlu';
-  src:  url('https://github.com/notlikeus-rpg/ntlu-icons/blob/695c384528b1e36ca7591a1edd4c788a09f9a026/ntlu.eot');
-  src:  url('https://github.com/notlikeus-rpg/ntlu-icons/blob/695c384528b1e36ca7591a1edd4c788a09f9a026/ntlu.eot?#iefix') format('embedded-opentype'),
-    url('https://github.com/notlikeus-rpg/ntlu-icons/blob/7adde39e361d4a9edd77eb095f4a855726990391/ntlu.ttf') format('truetype'),
-    url('https://github.com/notlikeus-rpg/ntlu-icons/blob/0ec44ce46fd28a0248dc87d1b2f454a0ceb00545/ntlu.woff') format('woff'),
-    url('https://github.com/notlikeus-rpg/ntlu-icons/blob/a4ee89bbf296a463c68ba438febf252089af4e69/ntlu.svg') format('svg');
+  src:url("./icofont.woff2") format("woff2"),url("./icofont.woff") format("woff")
   font-weight: normal;
   font-style: normal;
   font-display: block;
